@@ -12,6 +12,9 @@
   width: 300px;
   height: 300px;
   border: solid 2px black;
+  border-radius: 54px;
+  background-color: sienna;
+
 }
 .square{
   display: flex;
@@ -22,7 +25,7 @@
   border: solid 2px black;
   box-sizing: border-box;
   background-color:burlywood;
-
+  border-radius: 50px;
 }
 .cross, .circle {
   font-size: 80px;
